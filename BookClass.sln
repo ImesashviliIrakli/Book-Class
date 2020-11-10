@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookClass.Tests", "BookClass.Tests\BookClass.Tests.csproj", "{6DB9544D-E2A9-4AC5-96E5-D1079E18C745}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book.Tests", "Book.Tests\Book.Tests.csproj", "{6DB9544D-E2A9-4AC5-96E5-D1079E18C745}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
