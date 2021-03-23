@@ -33,6 +33,8 @@ Design a sealed class called `Book` that represents the book as a type of public
 | Criteria/Points | Weight | 0 point  | 1 point  | 2 point  | 3 point  | 4 point  |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | The configuration of the VS solution and the class library project  | 0.1  | All the classes added by a student  are placed to the same project where Unit tests are located | The solution is multi-project. Project dependencies are set correctly and the classes and Unit tests are placed in separate projects |  |  |  |  |
-| The presence of unit tests | 0.1 | There are no any unit tests | 
-Unit tests are created for all public methods |  |  |  |  |
+| The presence of unit tests | 0.1 | There are no any unit tests | Unit tests are created for all public methods |  |  |  |
 | The coverage of corner cases in the unit tests added by a student | 0.4 | No additional unit tests are provided by the student | One   boundary  case is  covered in the unit tests | Two boundary cases are covered in the unit tests | Three boundery cases are covered in the unit tests | All  boundery cases are covered in the unit tests |
+| The status of the unit tests | 0.1 | One or more unit tests are RED | All unit tests are GREEN |  |  |  |
+| The use of defensive coding | 0.2  | Input parameters are not checked | Input parameters are checked  (NULL, Empty)  | Input parameters are checked for boundary conditions | Exceptions are thrown for wrong parameters |  |
+| The implementation of   constructors | 0.1 | No parameterized constructors are created | Parameterized and default constructors are created  |  |  |  |
