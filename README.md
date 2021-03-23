@@ -30,3 +30,7 @@ Design a sealed class called `Book` that represents the book as a type of public
 
     Code review criteria:
     
+| Criteria/Points | Weight | 0 point  | 1 point  | 2 point  | 3 point  | 4 point  |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| The configuration of the VS solution and the class library project  | 0.1  | All the classes added by a student  are placed to the same project where Unit tests are located.  | The solution is multi-project. Project dependencies are set correctly and the classes and Unit tests are placed in separate projects |  |  |  |  |
+| cell | cell | cell | cell | cell | cell | cell | cell |
