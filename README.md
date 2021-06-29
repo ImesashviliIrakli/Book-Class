@@ -2,7 +2,7 @@
 
 ## Description
 Design a sealed class called `Book` that represents the book as a type of publication according to the following requirements.    
-- The `Book` class should have following private fields:
+- The `Book` class should have the following private fields:
     -  field-flag `published` and field `datePublished`(`System.DateTime`) are publishing-related fields; the field `published` is true when datePublished is assigned a publication date, false otherwise
     -  field `totalPages`  that indicates how many total pages the book has;
 - The `Book` class should have two constructors. 
