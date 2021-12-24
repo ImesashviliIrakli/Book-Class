@@ -24,9 +24,9 @@ Design a sealed class called `Book` that represents the book as a type of public
     - The `ToString` method returns the information about the author and the title of a book. For example, for the object with the values `Title = C# in Depth, Author = Jon Skeet, datePublished = 2019, Publisher = Manning Publications, ISBN: 9781617294532, Pages = 528, Price = $39.99`, method `ToString` should return following string `"C# in Depth by Jon Skeet"`.
     - This task requires you to create Unit tests for your solution. Please read about unit testing techniques before creating unit tests:  
 
-    - Testing principles https://sttp.site/chapters/getting-started/testing-principles.html 
+    - [Testing principles](http://web.archive.org/web/20200805142547/https://sttp.site/chapters/getting-started/testing-principles.html)
 
-    - Boundary testing https://sttp.site/chapters/testing-techniques/boundary-testing.html 
+    - [Boundary testing](http://web.archive.org/web/20200805124147/https://sttp.site/chapters/testing-techniques/boundary-testing.html)
 
     Code review criteria:
     
